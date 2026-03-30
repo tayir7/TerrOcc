@@ -8,9 +8,9 @@ This is the official repository for the paper **"TerrOcc: Terrain-Aware Multi-Mo
 
 > **🚧 Note:** The paper is currently under review. The source code, pre-trained weights, and our proposed **ORFDOcc** benchmark dataset will be officially released here upon formal acceptance. Stay tuned!
 
-<p align="center">
+<!-- <p align="center">
   <img src="docs/pipeline.png" width="90%" alt="TerrOcc Pipeline">
-</p>
+</p> -->
 
 ## 📢 News
 * **[2026-03]** Our paper has been submitted for review. 
