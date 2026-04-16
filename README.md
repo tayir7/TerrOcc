@@ -25,16 +25,24 @@ This is the official repository for the paper **"TerrOcc: Terrain-Aware Multi-Mo
 ## Semantic Occupancy Annotations
 
 ### ORFDOcc Dataset
-<video width="95%" controls autoplay loop muted>
-  <source src="demo/orfd-twoScense.mp4" type="video/mp4">
-</video>
+<!-- 强制显示大视频，添加下载链接 -->
+<div align="center">
+  <video width="95%" controls preload="metadata">
+    <source src="demo/orfd-twoScense.mp4" type="video/mp4">
+    <p>你的浏览器不支持视频播放，请 <a href="demo/orfd-twoScense.mp4">点击下载</a> 查看。</p>
+  </video>
+</div>
 
 <br>
 
 ### WildOcc Dataset
-<video width="95%" controls autoplay loop muted>
-  <source src="demo/Wildocc_twoScense.mp4" type="video/mp4">
-</video>
+<!-- 强制显示大视频，添加下载链接 -->
+<div align="center">
+  <video width="95%" controls preload="metadata">
+    <source src="demo/Wildocc_twoScense.mp4" type="video/mp4">
+    <p>你的浏览器不支持视频播放，请 <a href="demo/Wildocc_twoScense.mp4">点击下载</a> 查看。</p>
+  </video>
+</div>
 
 ## TODO List
 We are actively working on cleaning up the codebase for public release. 
