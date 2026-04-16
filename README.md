@@ -22,7 +22,8 @@ This is the official repository for the paper **"TerrOcc: Terrain-Aware Multi-Mo
 * **Terrain-Aware Fusion (TRF):** An adaptive spatial-channel attention mechanism that fuses multi-modal features based on voxel-level geometric energy, preventing representation collapse in wild terrains.
 
 # Demo
-**Semantic Occupancy Annotations**
+## Semantic Occupancy Annotations
+
 ### ORFDOcc Dataset
 <video width="95%" controls autoplay loop muted>
   <source src="demo/orfd-twoScense.mp4" type="video/mp4">
@@ -32,10 +33,10 @@ This is the official repository for the paper **"TerrOcc: Terrain-Aware Multi-Mo
 
 ### WildOcc Dataset
 <video width="95%" controls autoplay loop muted>
-  <source src="demo/Wildocc_twoSense.mp4" type="video/mp4">
+  <source src="demo/Wildocc_twoScense.mp4" type="video/mp4">
 </video>
 
-## 🗓️ TODO List
+## TODO List
 We are actively working on cleaning up the codebase for public release. 
 
 - [ ] Release the proposed **ORFDOcc** dataset.
