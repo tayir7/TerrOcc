@@ -24,26 +24,6 @@ This is the official repository for the paper **"TerrOcc: Terrain-Aware Multi-Mo
 # Demo
 ## Semantic Occupancy Annotations
 
-### ORFDOcc Dataset
-点击图片查看视频演示：
-<div align="center">
-  <a href="demo/orfd-twoScense.mp4" target="_blank">
-    <img src="demo/orfd-preview.png" width="95%" alt="ORFDOcc Occupancy Prediction Demo">
-  </a>
-</div>
-
-<br>
-
-### WildOcc Dataset
-点击图片查看视频演示：
-<div align="center">
-  <a href="demo/Wildocc_twoScense.mp4" target="_blank">
-    <img src="demo/wildocc-preview.png" width="95%" alt="WildOcc Occupancy Prediction Demo">
-  </a>
-</div>
-
----
-
 ## TODO List
 We are actively working on cleaning up the codebase for public release.
 
